@@ -5,7 +5,7 @@
 
 :closed_book: Main project repos
 * :pencil: `Training-and-documentation`: This is place to store all kinds of technical writing that you can find
-* :pencil: `django-oscar-3`: This is place for Django Oscar framework source code
+* :pencil: `django-oscar-3`: This is place for Django Oscar framework source code. If you are about to rebuild a doamin-driven ecommerce please git clone this one
 
 :orange_book: Course bonus repo
 * :pencil: `Go-Lang-traning-pool`: This is place for whom want to begin with Go Lang
