@@ -1,6 +1,6 @@
 # Welcome to `Software-Engineering-2020-Oscar`
 ## :rice_ball: This repo is all about guiding you to use repos in our organization 
-## :ramen: Folders structure
+## :ramen: Repos structure
 :blue_book: `Readme-first`: You must read this one first so you can see where to go next
 
 :closed_book: Main project repos
