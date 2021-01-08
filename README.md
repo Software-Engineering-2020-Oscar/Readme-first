@@ -9,3 +9,6 @@
 
 :orange_book: Course bonus repo
 * :pencil: `Go-Lang-traning-pool`: This is place for whom want to begin with Go Lang
+
+## Status
+- Course ended
